@@ -13,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
             System.out.println(sajad);
         }
 
+        for (int i = 0; i < 34; i++) {
+            
+        }
         int l;
 
         int k;
