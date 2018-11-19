@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GitCloned.iml" filepath="$PROJECT_DIR$/GitCloned.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/githubintegration.iml" filepath="$PROJECT_DIR$/.idea/githubintegration.iml" />
     </modules>
   </component>
 </project>
